@@ -100,6 +100,31 @@ necesidad de cada una de las página.
         
         
         
+            .imagentecnologiavisual{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:right;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("tencnologiavisual.jpeg");
+                
+                }
+
+
+
+
+
+        
         .texto{
         
         text-align: justify;
@@ -111,3 +136,17 @@ necesidad de cada una de las página.
         
         
         }
+
+
+        .textom3{
+        
+            text-align: center;
+            
+            color: rgb(10, 15, 15);
+            
+            font-size: 25px;
+            
+            
+            
+            }
+    
